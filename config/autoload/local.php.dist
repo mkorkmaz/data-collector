@@ -1,0 +1,14 @@
+<?php
+declare(strict_types=1);
+
+return [
+    'github' => [
+        'token' => '' // Generate one on https://github.com/settings/tokens
+    ],
+    'twitter' => [ // Add an app on https://apps.twitter.com/
+        'consumer-key' => '',
+        'consumer-secret' => '',
+        'access-token' => '',
+        'access-token-secret' => ''
+    ]
+];
